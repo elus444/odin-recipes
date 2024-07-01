@@ -1,1 +1,2 @@
 # odin-recipes
+hey my name is elham jemal i have started project odin to learn full stack web development and now i have done my first progect its an amazing project i did the besic html things that i have learned in the passed and also git oprations i also tried to make the git commit messages appropraite to the changes that i am making
